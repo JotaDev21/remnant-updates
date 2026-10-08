@@ -1,0 +1,4 @@
+:HL["/remnant-updates/_next/static/chunks/1uy6_7tcscv3n.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"OOhm0-ZWGC9P4zKr36yg4","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
